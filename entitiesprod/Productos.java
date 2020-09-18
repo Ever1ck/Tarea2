@@ -14,7 +14,7 @@ public class Productos {
         this.price=price;
     }
 
-    public void laugh() {
+    public void hipe() {
         System.out.println( name +" Prod");
     }
 
